@@ -1,0 +1,20 @@
+export const labels = {
+  login: 'Login',
+  register: 'Register',
+  forgotPassword: 'Forgot Password',
+  dashboard: 'Dashboard',
+  projects: 'Projects',
+  addProject: 'Add Project',
+  estimations: 'Estimations',
+  addEstimation: 'Add Estimation',
+  title: 'Title',
+  description: 'Description',
+  unit: 'Unit',
+  quantity: 'Quantity',
+  price: 'Price',
+  margin: 'Margin (%)',
+  total: 'Total',
+  submit: 'Submit',
+  remove: 'Remove',
+  addItem: 'Add Item'
+};

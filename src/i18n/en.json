@@ -1,0 +1,11 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "forgotPassword": "Forgot Password",
+  "dashboard": "Dashboard",
+  "projects": "Projects",
+  "estimations": "Estimations",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit"
+}
